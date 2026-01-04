@@ -1,4 +1,4 @@
-Welcome to Ibrohim profile
+<h1>Welcome to Ibrohim profile</h1>
 
 <!--
 **ibrohim-232r/ibrohim-232r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
